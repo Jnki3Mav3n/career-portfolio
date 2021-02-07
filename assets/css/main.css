@@ -1063,9 +1063,11 @@ aside {
   margin-bottom: 0;
 }
 
+/*
 .highlights p {
-  /*  white-space: pre-wrap; */
+  white-space: pre-wrap;
 }
+*/
 
 .highlights .items .item .icon {
   background-image: -webkit-linear-gradient(
